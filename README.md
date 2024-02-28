@@ -1,4 +1,4 @@
-## Oiii eu sou o Gustavo Petta, Desenvolver WEB Java!
+## Opa, eu sou o Gustavo Petta, Desenvolver WEB Java!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
