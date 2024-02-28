@@ -19,6 +19,8 @@
   <a href="https://www.linkedin.com/in/gustavoteixeira2005/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PettaDev&theme=dark&hide_border=false" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=PettaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" />
