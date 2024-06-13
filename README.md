@@ -1,4 +1,4 @@
-<h1 align="center">
+/<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Petta!;" />
 </h1>
 
@@ -11,7 +11,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,bootstrap,javascript,react,mysql,idea,java,spring,wordpress" />
 </div>
-<h2 align="center">🤝 Method Scrum 🤝</h2>
+<br/>
+<p height="60px" align="center"><strong>🤝 Method Scrum 🤝</strong></p>
 <br/>
 <div align="center">
     <img height="50em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
