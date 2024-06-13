@@ -14,6 +14,9 @@
 <h2 align="center">🤝 Method Scrum 🤝</h2>
 <br/>
 <div align="center">
+    <img height="50em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,discord,notion,obsidian" />
 </div>
 
