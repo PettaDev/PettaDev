@@ -9,7 +9,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,bootstrap,javascript,react,mysql,java,spring,idea,wordpress" />
+    <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,bootstrap,javascript,react,mysql,idea,java,spring,wordpress" />
 </div>
 <h2 align="center">🤝 Method Scrum 🤝</h2>
 <br/>
