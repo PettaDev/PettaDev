@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,bootstrap,javascript,react,mysql,idea,java,spring,wordpress" />
 </div>
 <br/>
-<p height="60px" align="center"><strong>🤝 Method Scrum 🤝</strong></p>
+<p height="100px" align="center"><strong>🤝 Method Scrum 🤝</strong></p>
 <br/>
 <div align="center">
     <img height="50em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
