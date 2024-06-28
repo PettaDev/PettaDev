@@ -6,6 +6,7 @@
 
 <br/>
 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -21,20 +22,15 @@
     <img src="https://skillicons.dev/icons?i=github,git,discord,notion,obsidian" />
 </div>
 
-  ##
-
-<div align="center"> 
-  <a href = "mailto:gustavo.teixeira0210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavoteixeira2005/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PettaDev&theme=dark&hide_border=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PettaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PettaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-</div>
-
 ---
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=PettaDev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+### Contact
+
+ 
+<a href = "mailto:gustavo.teixeira0210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavoteixeira2005/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://img.shields.io/static/v1?label=Overview&message=PettaDEV&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
